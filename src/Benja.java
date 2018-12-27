@@ -114,7 +114,7 @@ public class Benja {
 	}
 	
 	public static void main(String[] args) throws IOException {
-		String file = "C:\\Users\\Marco\\Documents\\safe.csv";
+		String file = "safe.csv";
 		ArrayList<String> urls = new ArrayList<String>();
 		Benja bj = new Benja();		
 		urls = loadUrls(file);		

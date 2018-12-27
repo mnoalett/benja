@@ -1,2 +1,2 @@
-# benja
+# Benja
 Open loop benchmark tool
